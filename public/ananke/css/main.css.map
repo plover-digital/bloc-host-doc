@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/wokuno/Library/CloudStorage/Dropbox/Dev/Plover/bloc-host-doc",
+	"sourceRoot": "/Users/wokuno/Dropbox/Dev/Plover/bloc-host-doc",
 	"sources": [
 		"ananke/css/main.css"
 	],
